@@ -9,3 +9,10 @@
 9. github page https://kie619.github.io/kkkie
 10. Ai导航 - https://o7o.net
 11. 工具导航站- https://tools.619.wiki
+12. mola blog - https://molamola.cc/
+
+部署节点 
+CF 
+SERV00 - PL 
+
+
