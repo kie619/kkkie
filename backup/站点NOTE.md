@@ -10,9 +10,11 @@
 10. Ai导航 - https://o7o.net
 11. 工具导航站- https://tools.619.wiki
 12. mola blog - https://molamola.cc/
+13. serv00 托管blog - https://blog.619.wiki/  
+14. 
 
 部署节点 
-CF 
-SERV00 - PL 
+CF : v.619.wiki 
+SERV00 - PL  ：x.619.wiki 
 
 
