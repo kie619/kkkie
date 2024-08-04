@@ -11,7 +11,7 @@
 11. 工具导航站- https://tools.619.wiki
 12. mola blog - https://molamola.cc/
 13. serv00 托管blog - https://blog.619.wiki/  
-14. 
+14. mola BLOG - https://molamola.cc
 
 部署节点 
 CF : v.619.wiki 
